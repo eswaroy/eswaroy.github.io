@@ -1,0 +1,8 @@
+# Public portfolio website
+# Allow search engines to crawl all public content
+
+User-agent: *
+Allow: /
+
+# XML sitemap
+Sitemap: https://eswaroy.github.io/sitemap.xml
